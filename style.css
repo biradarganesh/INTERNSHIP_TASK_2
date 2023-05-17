@@ -1,0 +1,35 @@
+center{
+    margin: 100px 30px;
+}
+body{
+  background-color: gainsboro;
+}
+#show1{
+  margin: 10px 10px;
+  padding: 40px 20px;
+  background-color:#bedfe4;
+}
+th{
+  padding: 8px 8px;
+  border-radius: 3px;
+  background-color:rgb(106, 228, 147);
+}
+input{
+  background-color:rgb(141, 227, 180);
+}
+thead{
+ border: 0;
+}
+#btn{
+  margin: 15px 150px 0;
+  padding: 5px 15px 5px 15px;
+}
+#btn input{
+  margin: 30px;
+}
+tr{
+  margin: 200px ;
+}
+h1{
+  display: inline;
+}
